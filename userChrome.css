@@ -108,10 +108,11 @@
 
 }
 
+
 #PanelUI-menu-button {
     padding-inline-end: 20px !important;
   }
-
+/* Macos style buttons  */
 .titlebar-buttonbox{
   border: 1px solid black !important;
   border-radius: 5px !important;
@@ -149,6 +150,7 @@
   background: #e71d27dd !important;
   border: 1px solid #ff000d !important;
 }
+/* Codes below are not working properly.  */
 /* .titlebar-close:hover > .toolbarbutton-icon::before {
   content: '' !important;
   position: absolute !important;
