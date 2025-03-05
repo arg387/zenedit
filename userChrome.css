@@ -111,21 +111,25 @@
 /* Macos button animations */
 #PanelUI-menu-button {
     padding-inline-end: 20px !important;
- }
-
+  }
+.titlebar-buttonbox-container {
+  cursor: pointer;
+  }
 .titlebar-buttonbox{
   border: 1px solid black !important;
   border-radius: 5px !important;
   position: relative !important;
+  
 }
-.titlebar-buttonbox .titlebar-button {
+.titlebar-buttonbox > .titlebar-button {
   background: hsl(228, 13%, 40%) !important;
 }
 .titlebar-button{
   padding: 8px 4px 10px 10px !important;
+
 }
 .titlebar-button > .toolbarbutton-icon {
-  display: relative !important;
+  display: flex !important;
   width: 14px !important;
   height: 14px !important;
   border-radius: 50% !important;
@@ -133,7 +137,6 @@
   padding: 0 !important;
   list-style-image: none !important;
   transition: all 0.3s ease !important;
-  cursor: pointer !important;
   justify-content: center !important;
   align-items: center !important;
   stroke: none !important;
@@ -149,9 +152,8 @@
 .titlebar-min > .toolbarbutton-icon {
   background: #ebb51f !important;
   border: 1px solid #ffbb00 !important;
-  transition:  background-color 200ms ease !important;
-  overflow: hidden !important;
-
+  transition:  all 200ms ease !important;
+  
 }
 .titlebar-buttonbox-container .titlebar-min::before{
 	content: '';
@@ -163,8 +165,9 @@
 	height: 2px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  	border-radius: 2px;
+  border-radius: 2px;
 	transition: 200ms;
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-min:hover::before{
 	opacity: 1;
@@ -175,8 +178,7 @@
 .titlebar-restore > .toolbarbutton-icon {
   background: #16dc16dd !important;
   border: 1px solid #00ff00 !important;
-  overflow: hidden !important;
-  transition:  background-color 200ms ease !important;
+  transition:  all 200ms ease !important;
 }
 .titlebar-buttonbox-container .titlebar-restore::before{
 	content: '';
@@ -188,12 +190,12 @@
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
- 	border-radius: 3px;
+  border-radius: 3px;
 	transition: 200ms;
-
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-restore::after{
-  	content: '';
+  content: '';
 	position: absolute;
 	top: 100%;
 	left: 54%;
@@ -203,6 +205,7 @@
 	opacity: 0;
 	background: #39ea49;
 	transition: 200ms;
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-restore:hover::before, 
 .titlebar-buttonbox-container .titlebar-restore:hover::after{
@@ -219,9 +222,9 @@
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  	border-radius: 2px;
+  border-radius: 2px;
 	transition: 200ms;
-
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-max::after{
 	content: '';
@@ -234,6 +237,7 @@
 	opacity: 0;
 	background: #39ea49;
 	transition: 200ms;
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-max:hover::before, 
 .titlebar-buttonbox-container .titlebar-max:hover::after{
@@ -244,8 +248,7 @@
 .titlebar-close > .toolbarbutton-icon {
   background: #e71d27dd !important;
   border: 1px solid #ff000d !important;
-  overflow: hidden !important;
-  transition:  background-color 200ms ease !important;
+  transition:  all 200ms ease !important;
 }
 
 .titlebar-buttonbox-container .titlebar-close::before{
@@ -258,8 +261,9 @@
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.65);
-  	border-radius: 1px;
+  border-radius: 1px;
 	transition: 200ms;
+  overflow: hidden !important;
 }
 .titlebar-buttonbox-container .titlebar-close::after{
 	content: '';
@@ -269,11 +273,11 @@
 	transform: translate(-50%, -50%) rotate(45deg);
 	width: 2px;
 	height: 9px;
-  	opacity: 0;
+  opacity: 0;
 	background: rgba(0, 0, 0, 0.65);
-   	border-radius: 1px;
+  border-radius: 1px;
 	transition: 200ms;
- 
+  overflow: hidden !important;
 }
  .titlebar-buttonbox-container .titlebar-close:hover::before,  
  .titlebar-buttonbox-container .titlebar-close:hover::after{
