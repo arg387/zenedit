@@ -1,0 +1,2 @@
+# zenedit
+zen browser configurations
