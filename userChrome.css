@@ -112,22 +112,20 @@
 #PanelUI-menu-button {
     padding-inline-end: 20px !important;
   }
-.titlebar-buttonbox-container {
-  cursor: pointer;
-  }
 .titlebar-buttonbox{
   border: 1px solid black !important;
-  border-radius: 5px !important;
+}
+.titlebar-button{
+  padding: 8px 4px 10px 10px !important;
+}
+.titlebar-buttonbox-container .titlebar-buttonbox .titlebar-button{
   position: relative !important;
-  
+  cursor: pointer;
 }
 .titlebar-buttonbox > .titlebar-button {
   background: hsl(228, 13%, 40%) !important;
 }
-.titlebar-button{
-  padding: 8px 4px 10px 10px !important;
 
-}
 .titlebar-button > .toolbarbutton-icon {
   display: flex !important;
   width: 14px !important;
@@ -136,151 +134,136 @@
   margin: 0 !important;
   padding: 0 !important;
   list-style-image: none !important;
-  transition: all 0.3s ease !important;
   justify-content: center !important;
   align-items: center !important;
   stroke: none !important;
-  min-width: 14px !important;
-  min-height: 14px !important;
 }
 .titlebar-button > .toolbarbutton-icon::before,
 .titlebar-button > .toolbarbutton-icon::after {
-  content: '' !important;
   border-radius: 50% !important;
 }
 /* Macos min button */
 .titlebar-min > .toolbarbutton-icon {
   background: #ebb51f !important;
   border: 1px solid #ffbb00 !important;
-  transition:  all 200ms ease !important;
-  
+  overflow: hidden !important;
+  transition:  all 200ms ease-in-out !important;
 }
-.titlebar-buttonbox-container .titlebar-min::before{
+
+.titlebar-min::before{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 20%;
+	left: 60%;
 	transform: translate(-50%, -50%);
 	width: 8px;
 	height: 2px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  border-radius: 2px;
-	transition: 200ms;
-  overflow: hidden !important;
+  	border-radius: 2px;
 }
-.titlebar-buttonbox-container .titlebar-min:hover::before{
+.titlebar-min:hover::before{
 	opacity: 1;
 	top: 50%;
 }
-/* Macos restore button  and Macos max button */
+/* Macos restore button  and Macos max button */ 
 .titlebar-max > .toolbarbutton-icon,
 .titlebar-restore > .toolbarbutton-icon {
   background: #16dc16dd !important;
   border: 1px solid #00ff00 !important;
-  transition:  all 200ms ease !important;
+  overflow: hidden !important;
+  transition:  all 200ms ease-in-out !important;
 }
-.titlebar-buttonbox-container .titlebar-restore::before{
+.titlebar-restore::before{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
+	left: 60%;
 	transform: translate(-50%, -50%);
 	width: 9px;
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  border-radius: 3px;
-	transition: 200ms;
-  overflow: hidden !important;
+  	border-radius: 3px;
 }
-.titlebar-buttonbox-container .titlebar-restore::after{
+.titlebar-restore::after{
   content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
+	left: 60%;
 	transform: translate(-50%, -50%);
 	width: 4px;
 	height: 4px;
 	opacity: 0;
 	background: #39ea49;
-	transition: 200ms;
-  overflow: hidden !important;
 }
-.titlebar-buttonbox-container .titlebar-restore:hover::before, 
-.titlebar-buttonbox-container .titlebar-restore:hover::after{
+.titlebar-restore:hover::before, 
+.titlebar-restore:hover::after{
 	opacity: 1;
 	top: 50%;
 }
-.titlebar-buttonbox-container .titlebar-max::before{
+.titlebar-max::before{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
+	left: 60%;
 	transform: translate(-50%, -50%);
 	width: 9px;
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  border-radius: 2px;
-	transition: 200ms;
-  overflow: hidden !important;
+  	border-radius: 2px;
 }
-.titlebar-buttonbox-container .titlebar-max::after{
+.titlebar-max::after{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
+	left: 60%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 4px;
 	height: 8px;
 	opacity: 0;
 	background: #39ea49;
-	transition: 200ms;
-  overflow: hidden !important;
 }
-.titlebar-buttonbox-container .titlebar-max:hover::before, 
-.titlebar-buttonbox-container .titlebar-max:hover::after{
+.titlebar-max:hover::before, 
+.titlebar-max:hover::after{
 	opacity: 1;
 	top: 50%;
 }
 /* Macos close button */
-.titlebar-close > .toolbarbutton-icon {
+.titlebar-close > .toolbarbutton-icon{
   background: #e71d27dd !important;
   border: 1px solid #ff000d !important;
-  transition:  all 200ms ease !important;
+  overflow: hidden !important;
+  transition:  all 200ms ease-in-out !important;
 }
 
-.titlebar-buttonbox-container .titlebar-close::before{
+.titlebar-close::before{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 87%;
+	left: 60%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 2px;
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.65);
-  border-radius: 1px;
-	transition: 200ms;
-  overflow: hidden !important;
+  	border-radius: 1px;
 }
-.titlebar-buttonbox-container .titlebar-close::after{
+.titlebar-close::after{
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 87%;
+	left: 60%;
 	transform: translate(-50%, -50%) rotate(45deg);
 	width: 2px;
 	height: 9px;
-  opacity: 0;
+  	opacity: 0;
 	background: rgba(0, 0, 0, 0.65);
-  border-radius: 1px;
-	transition: 200ms;
-  overflow: hidden !important;
+  	border-radius: 1px;
 }
- .titlebar-buttonbox-container .titlebar-close:hover::before,  
- .titlebar-buttonbox-container .titlebar-close:hover::after{
+.titlebar-close:hover::before,  
+.titlebar-close:hover::after{
 	opacity: 1;
 	top: 50%;
 }
