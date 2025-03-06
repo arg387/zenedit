@@ -4,7 +4,7 @@
   
   /* Common variables affecting all pages */
   @-moz-document url-prefix("about:") {
-    
+    /* Background image added  at  13th line */
     :root {
       --in-content-page-color: #c6d0f5 !important;
       --color-accent-primary: #eebebe !important;
