@@ -107,7 +107,10 @@
   }
 
 }
-
+/* urlbar centered text */
+#urlbar-input { 
+  text-align: center !important; 
+}
 /* Macos button animations */
 #PanelUI-menu-button {
     padding-inline-end: 20px !important;
