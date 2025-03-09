@@ -147,10 +147,10 @@
 }
 /* Macos min button */
 .titlebar-min > .toolbarbutton-icon {
-  background: #ebb51f !important;
+  background: hsla(44, 100%, 52%, 0.954) !important;
   border: 1px solid #ffbb00 !important;
   overflow: hidden !important;
-  transition:  all 200ms ease-in-out !important;
+  transition:  all 400ms ease !important;
 }
 
 .titlebar-min::before{
@@ -172,10 +172,10 @@
 /* Macos restore button  and Macos max button */ 
 .titlebar-max > .toolbarbutton-icon,
 .titlebar-restore > .toolbarbutton-icon {
-  background: #16dc16dd !important;
+  background: hsla(120, 94%, 49%, 0.867) !important;
   border: 1px solid #00ff00 !important;
   overflow: hidden !important;
-  transition:  all 200ms ease-in-out !important;
+  transition:  all 400ms ease !important;
 }
 .titlebar-restore::before{
 	content: '';
@@ -187,16 +187,16 @@
 	height: 9px;
 	opacity: 0;
 	background:  rgba(0, 0, 0, 0.6);
-  	border-radius: 3px;
+  	border-radius: 2px;
 }
 .titlebar-restore::after{
-  content: '';
+  	content: '';
 	position: absolute;
 	top: 100%;
 	left: 60%;
 	transform: translate(-50%, -50%);
 	width: 4px;
-	height: 4px;
+	height: 6px;
 	opacity: 0;
 	background: #39ea49;
 }
@@ -224,7 +224,7 @@
 	left: 60%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 4px;
-	height: 8px;
+	height: 30%;
 	opacity: 0;
 	background: #39ea49;
 }
@@ -235,10 +235,10 @@
 }
 /* Macos close button */
 .titlebar-close > .toolbarbutton-icon{
-  background: #e71d27dd !important;
+  background: hsla(357, 97%, 52%, 0.867) !important;
   border: 1px solid #ff000d !important;
   overflow: hidden !important;
-  transition:  all 200ms ease-in-out !important;
+  transition:  all 400ms ease !important;
 }
 
 .titlebar-close::before{
@@ -261,7 +261,7 @@
 	transform: translate(-50%, -50%) rotate(45deg);
 	width: 2px;
 	height: 9px;
-  	opacity: 0;
+ 	opacity: 0;
 	background: rgba(0, 0, 0, 0.65);
   	border-radius: 1px;
 }
