@@ -109,7 +109,9 @@
 }
 /* urlbar centered text */
 #urlbar-input { 
-  text-align: center !important; 
+  text-align: center !important;
+	font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+	color: rgb(255, 212, 212) !important; 
 }
 /* Macos button animations */
 #PanelUI-menu-button {
@@ -162,7 +164,7 @@
 	width: 8px;
 	height: 2px;
 	opacity: 0;
-	background:  rgba(0, 0, 0, 0.6);
+	background:  rgb(0, 0, 0);
   	border-radius: 2px;
 }
 .titlebar-min:hover::before{
@@ -186,7 +188,7 @@
 	width: 9px;
 	height: 9px;
 	opacity: 0;
-	background:  rgba(0, 0, 0, 0.6);
+	background:  rgb(0, 0, 0);
   	border-radius: 2px;
 }
 .titlebar-restore::after{
@@ -214,7 +216,7 @@
 	width: 9px;
 	height: 9px;
 	opacity: 0;
-	background:  rgba(0, 0, 0, 0.6);
+	background:  rgb(0, 0, 0);
   	border-radius: 2px;
 }
 .titlebar-max::after{
@@ -224,7 +226,7 @@
 	left: 60%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 4px;
-	height: 30%;
+	height: 35%;
 	opacity: 0;
 	background: #39ea49;
 }
@@ -250,7 +252,7 @@
 	width: 2px;
 	height: 9px;
 	opacity: 0;
-	background:  rgba(0, 0, 0, 0.65);
+	background:  rgb(0, 0, 0);
   	border-radius: 1px;
 }
 .titlebar-close::after{
@@ -261,8 +263,8 @@
 	transform: translate(-50%, -50%) rotate(45deg);
 	width: 2px;
 	height: 9px;
- 	opacity: 0;
-	background: rgba(0, 0, 0, 0.65);
+  	opacity: 0;
+	background: rgb(0, 0, 0);
   	border-radius: 1px;
 }
 .titlebar-close:hover::before,  
