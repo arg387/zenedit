@@ -109,19 +109,20 @@
 }
 /* urlbar centered text */
 #urlbar-input { 
-  text-align: center !important;
+  	text-align: center !important;
 	font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 	color: rgb(255, 212, 212) !important; 
 }
 /* Macos button animations */
 #PanelUI-menu-button {
-    padding-inline-end: 20px !important;
-  }
+  padding-inline-end: 10px !important;
+}
+
 .titlebar-buttonbox{
   border: 1px solid black !important;
 }
 .titlebar-button{
-  padding: 8px 4px 10px 10px !important;
+  padding: 8px 6px 8px 8px !important;
 }
 .titlebar-buttonbox-container .titlebar-buttonbox .titlebar-button{
   position: relative !important;
@@ -130,8 +131,8 @@
 .titlebar-buttonbox > .titlebar-button {
   background: hsl(228, 13%, 40%) !important;
 }
+
 .titlebar-button > .toolbarbutton-icon {
-	
   display: flex !important;
   min-height: 1.2em !important;
   min-width: 1.2em !important;
@@ -147,7 +148,6 @@
 .titlebar-button > .toolbarbutton-icon::after {
   border-radius: 50% !important;
 }
-
 /* Macos min button */
 .titlebar-min > .toolbarbutton-icon {
   background: hsla(44, 100%, 52%, 0.954) !important;
@@ -160,7 +160,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 55%;
 	transform: translate(-50%, -50%);
 	width: 8px;
 	height: 2px;
@@ -184,7 +184,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 53%;
 	transform: translate(-50%, -50%);
 	width: 9px;
 	height: 9px;
@@ -196,7 +196,7 @@
   	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 53%;
 	transform: translate(-50%, -50%);
 	width: 4px;
 	height: 6px;
@@ -212,7 +212,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 52%;
 	transform: translate(-50%, -50%);
 	width: 9px;
 	height: 9px;
@@ -224,7 +224,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 52%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 4px;
 	height: 35%;
@@ -248,7 +248,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 55%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 2px;
 	height: 9px;
@@ -260,7 +260,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 60%;
+	left: 55%;
 	transform: translate(-50%, -50%) rotate(45deg);
 	width: 2px;
 	height: 9px;
