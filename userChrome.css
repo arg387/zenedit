@@ -130,11 +130,10 @@
 .titlebar-buttonbox > .titlebar-button {
   background: hsl(228, 13%, 40%) !important;
 }
-
 .titlebar-button > .toolbarbutton-icon {
   display: flex !important;
-  width: 14px !important;
-  height: 14px !important;
+  min-height: 1.2em !important;
+  min-width: 1.2em !important;
   border-radius: 50% !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -147,6 +146,7 @@
 .titlebar-button > .toolbarbutton-icon::after {
   border-radius: 50% !important;
 }
+
 /* Macos min button */
 .titlebar-min > .toolbarbutton-icon {
   background: hsla(44, 100%, 52%, 0.954) !important;
