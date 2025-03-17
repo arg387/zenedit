@@ -131,6 +131,7 @@
   background: hsl(228, 13%, 40%) !important;
 }
 .titlebar-button > .toolbarbutton-icon {
+	
   display: flex !important;
   min-height: 1.2em !important;
   min-width: 1.2em !important;
