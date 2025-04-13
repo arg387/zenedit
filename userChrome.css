@@ -1,3 +1,4 @@
+
 @media (prefers-color-scheme: dark) {
 
   :root {
@@ -126,7 +127,7 @@
 }
 .titlebar-buttonbox-container .titlebar-buttonbox .titlebar-button{
   position: relative !important;
-  cursor: pointer;
+  cursor: pointer !important;
 }
 .titlebar-buttonbox > .titlebar-button {
   background: hsl(228, 13%, 40%) !important;
@@ -153,7 +154,7 @@
   background: hsla(44, 100%, 52%, 0.954) !important;
   border: 1px solid #ffbb00 !important;
   overflow: hidden !important;
-  transition:  all 400ms ease !important;
+  transition: all 400ms ease-in-out !important;
 }
 
 .titlebar-min::before{
@@ -167,6 +168,7 @@
 	opacity: 0;
 	background:  rgb(0, 0, 0);
   	border-radius: 2px;
+  	transition: background 200ms ease-in-out !important;
 }
 .titlebar-min:hover::before{
 	opacity: 1;
@@ -178,7 +180,7 @@
   background: hsla(120, 94%, 49%, 0.867) !important;
   border: 1px solid #00ff00 !important;
   overflow: hidden !important;
-  transition:  all 400ms ease !important;
+  transition:  all 400ms ease-in-out !important;
 }
 .titlebar-restore::before{
 	content: '';
@@ -241,7 +243,7 @@
   background: hsla(357, 97%, 52%, 0.867) !important;
   border: 1px solid #ff000d !important;
   overflow: hidden !important;
-  transition:  all 400ms ease !important;
+  transition: all 400ms ease-in-out !important;
 }
 
 .titlebar-close::before{
@@ -273,4 +275,3 @@
 	opacity: 1;
 	top: 50%;
 }
-
