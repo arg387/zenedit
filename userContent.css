@@ -1,16 +1,15 @@
 /* Catppuccin Frappe Flamingo userContent.css*/
 
 @media (prefers-color-scheme: dark) {
-  
+
   /* Common variables affecting all pages */
   @-moz-document url-prefix("about:") {
-    /* Background image added  at  13th line */
     :root {
       --in-content-page-color: #c6d0f5 !important;
       --color-accent-primary: #eebebe !important;
       --color-accent-primary-hover: rgb(243, 211, 211) !important;
       --color-accent-primary-active: rgb(238, 202, 190) !important;
-      background: url("castle.png") !important;
+       background: url("castle.png") !important;
       --in-content-page-background: #303446 !important;
     }
 
