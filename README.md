@@ -2,7 +2,8 @@
 zen browser configurations
 <br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
-![GitHub Downloads (zip, all releases)](https://img.shields.io/github/downloads/arg387/zenedit/zip)
+[![Github All Releases](https://img.shields.io/github/downloads/arg387/zenedit/total.svg)]()
+![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
 
 <br>
 
