@@ -4,7 +4,7 @@ zen browser configurations
 ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
 [![Github All Releases](https://img.shields.io/github/downloads/arg387/zenedit/total.svg)]()
 ![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
-
+[![https://github.com/arg387/zenedit/releases/tag/first](https://img.shields.io/badge/Download-8A2BE2)]()
 <br>
 
 ## Macos style button right side
