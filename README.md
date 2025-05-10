@@ -4,6 +4,7 @@ zen browser configurations
 ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
 ![GitHub Downloads (zip, all releases)](https://img.shields.io/github/downloads/arg387/zenedit/zip)
 
+<br>
 
 ## Macos style button right side
 - [x] **Small window style**
