@@ -28,6 +28,13 @@ zen browser configurations
 
 ## Instructions
 - Make sure to add all the files in the chrome folder.
+- Transparent background is only working for url interface and not for others whether you are using `Mica For Everyone` App or not.
+
+## Previews
+[![](https://img.shields.io/badge/updated_21_May_2025-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
+<br>
+![Recording 2025-05-21 195810(1)](https://github.com/user-attachments/assets/c505db34-802b-4a1b-9199-67f8862b6951)
+
 
 go to `about:config`, type and click add button as boolean:
 | Name   | Set                  | Description                                             |
@@ -56,3 +63,15 @@ go to `about:config` and set:
 ## Made with the help of
 - ![bubble Clean Zen](https://github.com/nieffka/bubble-clean-zen/)
 - ![Zen Catpuccine](https://github.com/catppuccin/zen-browser)
+
+**If you like it please give the repos a star.** 
+<br>
+<hr>
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+                 
