@@ -1,5 +1,5 @@
 /* Catppuccin Frappe Flamingo userChrome.css*/
-
+@import "bubble-clean/bubble-clean.css";
 @media (prefers-color-scheme: dark) {
 
   :root {
