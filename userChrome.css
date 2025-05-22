@@ -275,7 +275,8 @@
 	opacity: 1;
 	top: 50%;
 }
-/* Menu Button added  */
+/* Menu Button added If you want to revert it to Zen icon just comment the next code line or delete it */
 #PanelUI-menu-button, #zen-workspace-actions-menu-icon {
   list-style-image: url('menu-dots-svgrepo-com\(1\).svg') !important;
 }
+/*****************/
