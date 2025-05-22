@@ -30,7 +30,7 @@ zen browser configurations
 - [x] **Application Menu Button**
 <div align="center">
    <figure>
-    <img src="">
+    <img src="https://github.com/arg387/zenedit/blob/main/Screenshot%202025-05-22%20142023.png">
   </figure>
 </div>
 
