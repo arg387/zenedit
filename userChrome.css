@@ -275,3 +275,7 @@
 	opacity: 1;
 	top: 50%;
 }
+/* Menu Button added  */
+#PanelUI-menu-button, #zen-workspace-actions-menu-icon {
+  list-style-image: url('menu-dots-svgrepo-com\(1\).svg') !important;
+}
