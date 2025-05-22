@@ -5,7 +5,7 @@ zen browser configurations
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
 ![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
-[![](https://img.shields.io/badge/Download-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first1)
+[![](https://img.shields.io/badge/Download-8A2BE2)](https://github.com/arg387/zenedit/archive/refs/heads/main.zip)
 <br>
 <hr>
 
@@ -24,6 +24,14 @@ zen browser configurations
     <img src="https://github.com/arg387/zenedit/blob/main/macos-left-button-full.gif">
   </figure>
   <p>$${\color{lightgreen}**Preview**}$$<p>
+</div>
+
+## Icons added
+- [x] **Application Menu Button**
+<div align="center">
+   <figure>
+    <img src="">
+  </figure>
 </div>
 
 ## Instructions
