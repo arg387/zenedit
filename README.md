@@ -37,6 +37,7 @@ zen browser configurations
 ## Instructions
 - Make sure to add all the files in the chrome folder.
 - Transparent background is only working for url interface and not for others whether you are using `Mica For Everyone` App or not.
+- If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
 
 ## Previews
 [![](https://img.shields.io/badge/updated_21_May_2025-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
