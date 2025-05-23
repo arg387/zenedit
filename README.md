@@ -73,7 +73,7 @@ go to `about:config` and set:
 
 ## Made with the help of
 - ![bubble Clean Zen](https://github.com/nieffka/bubble-clean-zen/)
-- ![Zen Catpuccine](https://github.com/catppuccin/zen-browser)
+- ![Zen Catppuccine](https://github.com/catppuccin/zen-browser)
 
 **If you like it please give the repos a star.** 
 <br>
