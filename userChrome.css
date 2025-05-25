@@ -280,3 +280,41 @@
   list-style-image: url('menu-dots-svgrepo-com\(1\).svg') !important;
 }
 /*****************/
+
+/* [Config] Now playing indicator is added here. Credit  to @benstone326
+Also i have added this because only half of his mod is working. Other part is already added with zen's default style. */
+
+@media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
+	.tabbrowser-tab:is([soundplaying], [muted]) {
+		& .tab-background::after {
+			content:'';
+			position: absolute;
+			width: 4px !important;
+			border-radius: 4px !important;
+			height: 66.66% !important;
+			top: 50%;
+			left: calc(100% - 4px) !important;
+			transform: translateY(-50%);
+			background-color: var(--zen-primary-color) !important;
+		}
+	
+		&:not([selected='true']) .tab-background::after{
+			height: 33.33% !important;
+		}
+		
+		&:not([selected='true']):hover .tab-background::after{
+			height: 66.66% !important;
+		}
+	}
+}
+/* ***************** */
+/* Downloads Indicator Progress Outer. Credit to @different55 */
+
+#downloads-indicator-progress-outer::after {
+  content: '';
+  display: block;
+  position: absolute;
+  inset: 0;
+  z-index: -40;
+  background: var(--toolbar-field-background-color);
+}
