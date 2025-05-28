@@ -3,9 +3,17 @@ zen browser configurations
 <br>
 <hr>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
-![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
-[![](https://img.shields.io/badge/Download-8A2BE2)](https://github.com/arg387/zenedit/archive/refs/heads/main.zip)
+<div align="center">
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
+  ![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
+  [![](https://img.shields.io/badge/Download-8A2BE2)](https://github.com/arg387/zenedit/archive/refs/heads/main.zip)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arg387.zenedit)
+  
+</div>
+
+
+
 <br>
 <hr>
 
