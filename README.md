@@ -48,7 +48,7 @@ zen browser configurations
 - If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
 - ![Screenshot 2025-05-22 163345](https://github.com/user-attachments/assets/f537d72b-eaaa-4455-ac8f-51ad066cf935) Make sure to click around the space of the sound wave icon showing here if you want to change from any tab to the sound wave showing tab. If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows as for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
 - If you want to edit styles by yourself you need to set `devtools.chrome.enabled` to `true`. I don't know why we need to do this but zen may change this settings in the future. I will update it if i know. Please inform me about it if any of you know about any update on it in future.
-- If you want to use compact mode use `Ctrl+Alt+C`. Without it you cannot properly switch to compact mode.
+- you can switch to compact mode by using `Ctrl+Alt+C`. For bookmarks hidden/show use `ctrl+shift+B`[For windows only i am not a mac user. So mac might have something different for this. Check keyboard shortcuts in settings page for more info.]
 
 ## Previews
 [![](https://img.shields.io/badge/updated_21_May_2025-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
