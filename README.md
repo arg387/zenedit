@@ -23,7 +23,8 @@ zen browser configurations
   <figure>
     <img src="https://github.com/arg387/zenedit/blob/main/macos-left-button-small.gif">
   </figure>
-  <p>$${\color{lightgreen}**Preview**}$$<p>
+  <br>
+  <figure><img src="https://img.shields.io/badge/Preview-a6da95"></figure>
 </div>
 
 - [x] **Full window style**
@@ -31,7 +32,8 @@ zen browser configurations
   <figure>
     <img src="https://github.com/arg387/zenedit/blob/main/macos-left-button-full.gif">
   </figure>
-  <p>$${\color{lightgreen}**Preview**}$$<p>
+  <br>
+  <figure><img src="https://img.shields.io/badge/Preview-a6da95"></figure>
 </div>
 
 ## Icons added
@@ -40,6 +42,8 @@ zen browser configurations
    <figure>
     <img src="https://github.com/arg387/zenedit/blob/main/Screenshot%202025-05-22%20142023.png">
   </figure>
+  <br>
+  <figure><img src="https://img.shields.io/badge/Preview-a6da95"></figure>
 </div>
 
 ## Instructions
