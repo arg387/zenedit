@@ -144,7 +144,7 @@
   cursor: pointer !important;
 }
 .titlebar-buttonbox > .titlebar-button {
-  background: hsl(228, 13%, 40%) !important;
+  background: hsl(227, 16%, 18%) !important;
 }
 
 .titlebar-button > .toolbarbutton-icon {
@@ -332,3 +332,9 @@ Also i have added this because only half of his mod is working. Other part is al
   z-index: -40;
   background: var(--toolbar-field-background-color);
 }
+
+/* ***************** */
+.urlbarView-title{
+  color: #f8eded !important;
+}
+
