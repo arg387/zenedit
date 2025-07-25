@@ -171,6 +171,13 @@
   transition: all 400ms ease-in-out !important;
 }
 
+/* New additions 25-07-2025 */
+.titlebar-min,
+.titlebar-max,
+.titlebar-restore,
+.titlebar-close{
+  content: '' !important;
+}
 .titlebar-min::before{
 	content: '';
 	position: absolute;
