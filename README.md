@@ -48,16 +48,23 @@ zen browser configurations
 
 ## Instructions
 - Make sure to add all the files in the chrome folder.
-- Transparent background is only working for url interface,extension menu, bookmark sidebar, findbar and for application menu but not for others whether you are using `Mica For Everyone` App or not.
+- Transparent background is only working for url interface,extension menu, bookmark sidebar, findbar, topbar and for application menu but not for others whether you are using `Mica For Everyone` App or not.
 - If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
-- ![Screenshot 2025-05-22 163345](https://github.com/user-attachments/assets/f537d72b-eaaa-4455-ac8f-51ad066cf935) Make sure to click around the space of the sound wave icon showing here if you want to change from any tab to the sound wave showing tab. If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows. As for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
+- ![Screenshot 2025-05-22 163345](https://github.com/user-attachments/assets/f537d72b-eaaa-4455-ac8f-51ad066cf935) If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows. As for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
 - If you want to edit styles by yourself go to search bar and type `about:config` . Then you have to set `devtools.chrome.enabled` to `true` and `devtools.debugger.remote-enabled` to `true`. I don't know why we need to do this but zen may change this settings in the future. I will update it if i know. Please inform me about it if any of you know about any update on it in future.
 - you can switch to compact mode by using `Ctrl+Alt+C`. For bookmarks hidden/show use `ctrl+shift+B`[For windows only, i am not a mac user. So mac might have something different for this. Check keyboard shortcuts in settings page for more info.]
 
 ## Previews
-[![](https://img.shields.io/badge/updated_21_May_2025-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
+<div align="center">
+  <figure>
+    <img src="https://img.shields.io/badge/Updated-✓-8A2BE2"><img src="https://img.shields.io/badge/21_September_2025-blue">
+  </figure>
+</div>
 <br>
-![Recording 2025-05-21 195810(1)](https://github.com/user-attachments/assets/c505db34-802b-4a1b-9199-67f8862b6951)
+
+![Screen Recording 2025-09-26 122433](https://github.com/user-attachments/assets/aadb581f-b5c6-4a81-8bfe-57ce41de7eca)
+<br>
+
 
 
 go to search bar and type `about:config` and click add button as boolean[We are creating new configs here]:
