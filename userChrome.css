@@ -345,3 +345,11 @@ Also i have added this because only half of his mod is working. Other part is al
   color: #f8eded !important;
 }
 
+
+#urlbar[breakout-extend="true"] {
+  & .urlbar-background {
+    --zen-urlbar-background-base: light-dark( white, color-mix(in srgb, hsl(0, 0%, 1%), var(--zen-colors-primary) 25%) );
+    opacity: 0.7;
+  }
+}
+
