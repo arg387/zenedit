@@ -57,12 +57,12 @@ zen browser configurations
 ## Previews
 <div align="center">
   <figure>
-    <img src="https://img.shields.io/badge/Updated-✓-8A2BE2"><img src="https://img.shields.io/badge/21_September_2025-blue">
+    <img src="https://img.shields.io/badge/Updated-✓-8A2BE2"><img src="https://img.shields.io/badge/11_November_2025-blue">
   </figure>
 </div>
 <br>
 
-![Screen Recording 2025-09-26 122433](https://github.com/user-attachments/assets/aadb581f-b5c6-4a81-8bfe-57ce41de7eca)
+![1st](https://github.com/user-attachments/assets/0a18b61e-cb22-4fad-b713-c62f3a7ac011)
 <br>
 
 
