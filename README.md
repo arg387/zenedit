@@ -21,7 +21,7 @@ zen browser configurations
 - [x] **Small window style**
 <div align="center">
   <figure>
-    <img src="https://raw.githubusercontent.com/arg387/zenedit/main/macos-left-button-small.gif">
+    <img src="https://github.com/arg387/zenedit/blob/1fd3a742756356ce6f4332f6c2545478c91b10bd/macos-left-button-small.gif">
   </figure>
   <br>
   <figure>
@@ -33,7 +33,7 @@ zen browser configurations
 - [x] **Full window style**
 <div align="center">
   <figure>
-    <img src="https://raw.githubusercontent.com/arg387/zenedit/main/macos-left-button-full.gif">
+    <img src="https://github.com/arg387/zenedit/blob/1fd3a742756356ce6f4332f6c2545478c91b10bd/macos-left-button-full.gif">
   </figure>
   <br>
   <figure>
