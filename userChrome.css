@@ -305,7 +305,7 @@
 
 /* [Config] Now playing indicator is added here. Credit  to @benstone326
 Also i have added this because only half of his mod is working. Other part is already added with zen's default style. */
-/*  edit 23-10-2022 this style is not working properly so i have changed it to previous style. */
+/*  edit 23-10-2025 this style is not working properly so i have changed it to previous style. */
 @media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
 	.tabbrowser-tab:is([soundplaying], [muted]) {
 		& .tab-background::after {
@@ -357,5 +357,6 @@ Also i have added this because only half of his mod is working. Other part is al
   }
 }
 /* **** */
+
 
 
