@@ -58,16 +58,22 @@ zen browser configurations
 <div align="center">
   <figure>
     <img src="https://img.shields.io/badge/Updated-✓-8A2BE2"><img src="https://img.shields.io/badge/11_November_2025-blue">
+    <br>
+    <img width="568" height="448" alt="Screenshot 2025-10-23 202919" src="https://github.com/user-attachments/assets/c5e481e4-8ebf-44d3-ae4a-63fb772c0c35" />
+    <br>
+    <img width="345" height="362" alt="Screenshot 2025-11-04 184534" src="https://github.com/user-attachments/assets/453936ca-b0da-4ebe-a939-6f80bd7b567d" />
   </figure>
 </div>
 <br>
 
 ![1st](https://github.com/user-attachments/assets/0a18b61e-cb22-4fad-b713-c62f3a7ac011)
+
 <br>
 
 
 
 go to search bar and type `about:config` and click add button as boolean[We are creating new configs here]:
+
 | Name   | Set                  | Description                                             |
 | ---        | -------------            | -------------                                     |
 | `bubble.clean.hide-single-toolbar-icon`       | `true`                | Hide icons in urlbar (single toolbar)|
