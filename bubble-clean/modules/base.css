@@ -5,7 +5,7 @@
 
 /* Browser Container Transparency */
 .browserSidebarContainer {
-  background-color: rgba(0,0,0,0.2) !important; 
+  background-color: rgba(0,0,0,0) !important; 
 }
 #main-window {
   #browser:has([zen-empty-tab="true"][selected="true"]) .browserStack {

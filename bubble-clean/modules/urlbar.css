@@ -156,6 +156,7 @@
   * {
     --urlbarView-item-block-padding: 4px !important;
     --urlbarView-item-inline-padding: 4px !important;
+    
   }
 
   #urlbar #urlbar-background {
@@ -515,4 +516,7 @@
     border-top: 1px solid light-dark(rgba(20, 20, 20, 0.2), rgba(235, 235, 235, 0.2)) !important;
   }
 }
+}
+.urlbarView-title{
+  color: #d5d5d5 !important;
 }

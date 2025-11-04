@@ -1,13 +1,9 @@
 /* --- Context Menu --- */
-/*menupopup,
-panel {
-  --panel-background: color-mix(in srgb, var(--zen-primary-color) 25%, black 70%) !important;
-}*/
-/* Some bugs of bubble-clean css are fixed here for now.  */
 menupopup,
 panel {
-  --panel-background: rgba(15, 12, 12, 0.735) !important; 
+  --panel-background: rgba(14, 14, 27, 0.61) !important; 
   --panel-color: #cdd6f4 !important; 
+  
 }
 #confirmation-hint {
   --arrowpanel-color: var(--sidebar-text-color) !important;
@@ -62,8 +58,22 @@ menuitem[checked="true"]>.menu-iconic-text {
   --translation-factor: calc(var(--panel-width, 282px) / var(--num-of-buttons-in-menu));
   --button-width: calc(var(--translation-factor) - 8px);
   --button-height: 40px;
-  --button-bg-color-hover: color-mix(in srgb, white 7%, var(--arrowpanel-background) 93%);
-  --button-bg-color-active: color-mix(in srgb, white 12%, var(--arrowpanel-background) 88%);
-  --zen-appcontent-border: transparent 1px solid;
   width: 285px !important;
 }
+menupopup, panel[type="arrow"]:not(#feature-callout){
+  @media (-moz-windows-mica-popups){
+    --panel-background: light-dark(rgb(249, 249, 251), rgb(43, 42, 51)) !important;
+    opacity: 0.9 !important;
+    backdrop-filter: blur(10px) !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
