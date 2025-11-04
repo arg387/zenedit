@@ -24,8 +24,11 @@ zen browser configurations
     <img src="https://raw.githubusercontent.com/arg387/zenedit/main/macos-left-button-small.gif">
   </figure>
   <br>
-  <figure><img src="https://img.shields.io/badge/Preview-a6da95"></figure>
+  <figure>
+    <img src="https://img.shields.io/badge/Preview-a6da95">
+  </figure>
 </div>
+
 
 - [x] **Full window style**
 <div align="center">
@@ -33,8 +36,11 @@ zen browser configurations
     <img src="https://raw.githubusercontent.com/arg387/zenedit/main/macos-left-button-full.gif">
   </figure>
   <br>
-  <figure><img src="https://img.shields.io/badge/Preview-a6da95"></figure>
+  <figure>
+    <img src="https://img.shields.io/badge/Preview-a6da95">
+  </figure>
 </div>
+
 
 ## Icons added
 - [x] **Application Menu Button**
