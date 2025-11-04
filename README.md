@@ -19,26 +19,23 @@ zen browser configurations
 
 ## Macos style button right side
 - [x] **Small window style**
+
 <div align="center">
-  <figure>
-    <img src="https://github.com/arg387/zenedit/blob/1fd3a742756356ce6f4332f6c2545478c91b10bd/macos-left-button-small.gif">
-  </figure>
-  <br>
-  <figure>
-    <img src="https://img.shields.io/badge/Preview-a6da95">
-  </figure>
+  
+  ![macos-left-button-small](https://github.com/user-attachments/assets/26ef74a9-2b19-4d1f-a392-e22a16d44618)
+  
+  <br>  
+  <img src="https://img.shields.io/badge/Preview-a6da95">
 </div>
 
 
 - [x] **Full window style**
 <div align="center">
-  <figure>
-    <img src="https://github.com/arg387/zenedit/blob/1fd3a742756356ce6f4332f6c2545478c91b10bd/macos-left-button-full.gif">
-  </figure>
+  
+  ![macos-left-button-full2](https://github.com/user-attachments/assets/a8fe4d6f-cb3f-4e23-8d11-496e19ade264)
+
   <br>
-  <figure>
-    <img src="https://img.shields.io/badge/Preview-a6da95">
-  </figure>
+  <img src="https://img.shields.io/badge/Preview-a6da95">
 </div>
 
 
