@@ -62,15 +62,11 @@ menuitem[checked="true"]>.menu-iconic-text {
 }
 menupopup, panel[type="arrow"]:not(#feature-callout){
   @media (-moz-windows-mica-popups){
-    --panel-background: light-dark(rgb(249, 249, 251), rgb(43, 42, 51)) !important;
-    opacity: 0.9 !important;
-    backdrop-filter: blur(10px) !important;
+    --panel-background: #0f0d1ead !important;
+    --panel-shadow-margin: 0px !important;
+    --panel-border-color: transparent !important;
   }
 }
-
-
-
-
 
 
 
