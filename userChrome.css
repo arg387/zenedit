@@ -182,7 +182,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 55%;
+	left: 53%;
 	transform: translate(-50%, -50%);
 	width: 8px;
 	height: 2px;
@@ -235,8 +235,8 @@
 .titlebar-max::before{
 	content: '';
 	position: absolute;
-	top: 100%;
-	left: 52%;
+	top: 50%;
+	left: 53%;
 	transform: translate(-50%, -50%);
 	width: 9px;
 	height: 9px;
@@ -247,11 +247,11 @@
 .titlebar-max::after{
 	content: '';
 	position: absolute;
-	top: 100%;
-	left: 52%;
+	top: 50%;
+	left: 53%;
 	transform: translate(-50%, -50%) rotate(-45deg);
-	width: 4px;
-	height: 35%;
+	width: 3px;
+	height: 10px;
 	opacity: 0;
 	background: #39ea49;
 }
@@ -272,7 +272,7 @@
 	content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
+	left: 53%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 2px;
 	height: 8px;
@@ -357,6 +357,7 @@ Also i have added this because only half of his mod is working. Other part is al
   }
 }
 /* **** */
+
 
 
 
