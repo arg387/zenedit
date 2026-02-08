@@ -357,7 +357,9 @@ Also i have added this because only half of his mod is working. Other part is al
   }
 }
 /* **** */
-
+.zen-view-splitter-header{
+  background: #252537 !important;
+}
 
 
 
