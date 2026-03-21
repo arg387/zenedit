@@ -71,7 +71,7 @@ zen browser configurations
 </div>
 <br>
 
-![Recording 2026-03-21 165559](https://github.com/user-attachments/assets/620d6ae3-ff9e-49aa-963e-18f247726757)
+![Gif demo](https://github.com/user-attachments/assets/2d49fe9c-4f09-4525-871f-76f9679f965f)
 
 
 <br>
