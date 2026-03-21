@@ -369,5 +369,10 @@ Also i have added this because only half of his mod is working. Other part is al
 #browser {
   background: #181825 !important;
 }
-
+/* folder styles */
+zen-folder {
+  --zen-folder-behind-bgcolor: #6767b4 !important;
+  --zen-folder-front-bgcolor: #241d1d !important;
+  --zen-folder-stroke: #453737 !important;
+}
 
