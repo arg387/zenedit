@@ -60,7 +60,7 @@ zen browser configurations
 ## Previews
 <div align="center">
   <figure>
-    <img src="https://img.shields.io/badge/Updated-✓-8A2BE2"><img src="https://img.shields.io/badge/11_November_2025-blue">
+    <img src="https://img.shields.io/badge/Screenshot-aqua"><img src="https://img.shields.io/badge/Updated-green?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc2MCAzODAuNGwtNjEuNi02MS42LTI2My4yIDI2My4xLTEwOS42LTEwOS41TDI2NCA1MzRsMTcxLjIgMTcxLjJMNzYwIDM4MC40eiIvPjwvc3ZnPg==&logoColor=f5f5f5"><img src="https://img.shields.io/badge/21_March_2026-blue">
     <br>
     <img width="568" height="448" alt="Screenshot 2025-10-23 202919" src="https://github.com/user-attachments/assets/c5e481e4-8ebf-44d3-ae4a-63fb772c0c35" />
     <br>
@@ -69,7 +69,8 @@ zen browser configurations
 </div>
 <br>
 
-![1st](https://github.com/user-attachments/assets/0a18b61e-cb22-4fad-b713-c62f3a7ac011)
+![Recording 2026-03-21 165559](https://github.com/user-attachments/assets/620d6ae3-ff9e-49aa-963e-18f247726757)
+
 
 <br>
 
