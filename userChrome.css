@@ -362,9 +362,12 @@ Also i have added this because only half of his mod is working. Other part is al
 }
 /* background update for 1.18+ */
 #zen-appcontent-wrapper {
-        z-index: 3 !important;
-        background: #181825;
+  z-index: 3 !important;
+  background: #181825 !important;
 }
-
+/* fix sidebar background for normal mode */
+#browser {
+  background: #181825 !important;
+}
 
 
