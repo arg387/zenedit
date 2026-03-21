@@ -53,8 +53,8 @@ zen browser configurations
 - Make sure to add all the files in the chrome folder.
 - Transparent background is only working for url interface,extension menu, bookmark sidebar, findbar and for application menu but not for others whether you are using `Mica For Everyone` App or not[I haven't tested whether it works for a long time.]. I don't recommend you to use third party apps for transparency since i am also not using it. It's your own choice if you want to.
 - If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
-- ![Screenshot 2025-05-22 163345](https://github.com/user-attachments/assets/f537d72b-eaaa-4455-ac8f-51ad066cf935) If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows. As for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
-- If you want to edit styles by yourself go to search bar and type `about:config` . Then you have to set `devtools.chrome.enabled` to `true` and `devtools.debugger.remote-enabled` to `true`. I don't know why we need to do this but zen may change this settings in the future. I will update it if i know. Please inform me about it if any of you know about any update on it in future.
+- If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows. As for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
+- If you want to edit styles by yourself go to search bar and type `about:config` . Then you have to set `devtools.chrome.enabled` to `true` and `devtools.debugger.remote-enabled` to `true`. Zen may change this settings in the future. I will update it if i know. Please inform me about it if any of you know about any update on it in future.
 - you can switch to compact mode by using `Ctrl+Alt+C`. For bookmarks hidden/show use `ctrl+shift+B`[For windows only, i am not a mac user. So mac might have something different for this. Check keyboard shortcuts in settings page for more info.]
 
 ## Previews
@@ -65,6 +65,8 @@ zen browser configurations
     <img width="568" height="448" alt="Screenshot 2025-10-23 202919" src="https://github.com/user-attachments/assets/c5e481e4-8ebf-44d3-ae4a-63fb772c0c35" />
     <br>
     <img width="345" height="362" alt="Screenshot 2025-11-04 184534" src="https://github.com/user-attachments/assets/453936ca-b0da-4ebe-a939-6f80bd7b567d" />
+    <img width="1919" height="1072" alt="Screenshot 2026-03-21 172716" src="https://github.com/user-attachments/assets/ec5a11d8-0075-4359-9fe6-776352b16438" />
+
   </figure>
 </div>
 <br>
