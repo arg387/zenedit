@@ -80,3 +80,15 @@ scrollbox:nth-child(5) {
     }
   }
 }
+#navigator-toolbox:not([zen-sidebar-expanded="true"]) {
+  & #tabbrowser-tabs {
+    & .tabbrowser-tab {
+      & .tab-content {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        padding: 15px !important;
+      }
+    }
+  }
+}
