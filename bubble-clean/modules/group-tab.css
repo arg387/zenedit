@@ -189,3 +189,10 @@ tab-group:not([split-view-group]) {
     }
   
 }
+#tabbrowser-tabs[orient="vertical"] {
+  &:not([expanded]) {
+    & .tab-background {
+      width: auto !important;
+    }
+  }
+}
