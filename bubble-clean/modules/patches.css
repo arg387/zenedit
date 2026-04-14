@@ -63,3 +63,20 @@ scrollbox:nth-child(5) {
 .tab-label:not([fadein]) {
   display: flex !important;
 }
+/* double tab splitter settings */
+.zen-view-splitter-header-container toolbarbutton{
+  color: #ffffff !important;
+  fill: currentColor !important;
+}
+.zen-view-splitter-header{
+  background-color: #181825 !important;
+}
+#navigator-toolbox:not([zen-sidebar-expanded="true"]) {
+  & #tabbrowser-tabs {
+    & .tabbrowser-tab {
+      & .tab-background {
+        margin-inline: 0px !important;
+      }
+    }
+  }
+}
