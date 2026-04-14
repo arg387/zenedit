@@ -75,7 +75,7 @@ scrollbox:nth-child(5) {
   & #tabbrowser-tabs {
     & .tabbrowser-tab {
       & .tab-background {
-        margin-inline: 0px !important;
+        margin-inline: 1px !important;
       }
     }
   }
