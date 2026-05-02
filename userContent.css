@@ -32,7 +32,6 @@
     }
 
     .search-wrapper .logo-and-wordmark .logo {
-      background: url("zen-logo-mocha.svg"), url("https://raw.githubusercontent.com/IAmJafeth/zen-browser/main/themes/Mocha/Flamingo/zen-logo-mocha.svg") no-repeat center !important;
       display: inline-block !important;
       height: 82px !important;
       width: 82px !important;
@@ -154,5 +153,8 @@
     .card {
       background-color: #313244 !important;
     }
+  }
+  .sticky-container {
+    background: #11111b !important;
   }
 }
