@@ -59,7 +59,7 @@ zen browser configurations
 ## Previews
 <div align="center">
   <figure>
-    <img src="https://img.shields.io/badge/Screenshot-aqua"><img src="https://img.shields.io/badge/Updated-green?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc2MCAzODAuNGwtNjEuNi02MS42LTI2My4yIDI2My4xLTEwOS42LTEwOS41TDI2NCA1MzRsMTcxLjIgMTcxLjJMNzYwIDM4MC40eiIvPjwvc3ZnPg==&logoColor=f5f5f5"><img src="https://img.shields.io/badge/21_March_2026-blue">
+    <img src="https://img.shields.io/badge/Screenshot-aqua"><img src="https://img.shields.io/badge/Updated-green?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc2MCAzODAuNGwtNjEuNi02MS42LTI2My4yIDI2My4xLTEwOS42LTEwOS41TDI2NCA1MzRsMTcxLjIgMTcxLjJMNzYwIDM4MC40eiIvPjwvc3ZnPg==&logoColor=f5f5f5"><img src="https://img.shields.io/badge/05_May_2026-blue">
     <br>
     <img width="568" height="448" alt="Screenshot 2025-10-23 202919" src="https://github.com/user-attachments/assets/c5e481e4-8ebf-44d3-ae4a-63fb772c0c35" />
     <br>
@@ -70,7 +70,8 @@ zen browser configurations
 </div>
 <br>
 
-![Gif demo](https://github.com/user-attachments/assets/2d49fe9c-4f09-4525-871f-76f9679f965f)
+<img width="692" height="388" alt="Recording 2026-05-05 155530" src="https://github.com/user-attachments/assets/10a0c23e-1f01-42f5-b1df-d267443d20a8" />
+
 
 
 <br>
