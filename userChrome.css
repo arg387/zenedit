@@ -12,7 +12,7 @@
     --toolbarbutton-icon-fill: #f2cdcd !important;
     --lwt-text-color: #cdd6f4 !important;
     --toolbar-field-color: #cdd6f4 !important;
-    --tab-selected-textcolor: rgb(223, 210, 225) !important;
+    --tab-selected-textcolor: rgb(255, 255, 255) !important;
     --toolbar-field-focus-color: #cdd6f4 !important;
     --toolbar-color: #cdd6f4 !important;
     --newtab-text-primary-color: #cdd6f4 !important;
@@ -24,7 +24,7 @@
     --toolbar-bgcolor: #313244 !important;
     --newtab-background-color: #1e1e2e !important;
     --zen-themed-toolbar-bg: #181825 !important;
-    --zen-main-browser-background: #181825 !important;
+    --zen-main-browser-background: #20202c !important;
     --toolbox-bgcolor-inactive: #181825 !important;
   }
 
@@ -42,10 +42,6 @@
 
   #TabsToolbar {
     background-color: #181825 !important;
-  }
-
-  #urlbar-background {
-    background-color: #1e1e2e !important;
   }
 
   .content-shortcuts {
