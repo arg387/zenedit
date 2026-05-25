@@ -52,10 +52,9 @@ compatible with zen browser version latest- 1.20b
 
 ## Instructions
 - Make sure to add all the files in the chrome folder.
-- Transparent background is only working for url interface,extension menu, bookmark sidebar, findbar and for application menu but not for others whether you are using `Mica For Everyone` App or not[I haven't tested whether it works for a long time.]. I don't recommend you to use third party apps for transparency since i am also not using it. It's your own choice if you want to.
+- Transparent background is only working for url interface,extension menu, findbar and for application menu. I don't recommend you to use third party apps for transparency since i am also not using it. It's your own choice if you want to.
 - If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
-- If you use keyboard for tab switching then use `Ctrl + position of the tab in descension order in number(including essential tabs and pinned tabs)`[This keyboard shortcut is for windows. As for macos check the keyboard shortcuts i am not a mac user so i don't know.]. For example- The keyboard shortcut of sound wave showing tab is `Ctrl + 7`.
-- you can switch to compact mode by using `Ctrl+Alt+C`. For bookmarks hidden/show use `ctrl+shift+B`[For windows only, i am not a mac user. So mac might have something different for this. Check keyboard shortcuts in settings page for more info.]
+
 
 ## Previews
 <div align="center">
