@@ -100,11 +100,7 @@ Go to `about:config` and set:
 | `browser.tabs.allow_transparent_browser`       | `true`                | Allow transparency|
 | `widget.windows.mica`       | `true`                | Allow transparency|
 
-For `v1.8b` above if you're transparency not working
-go to `about:config` and set:
-| Name   | Set                  |
-| ---        | -------------            |
-| `zen.widget.windows.acrylic`       | `false`                |
+
 
 
 ## Made with the help of
