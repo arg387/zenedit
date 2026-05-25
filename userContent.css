@@ -84,7 +84,9 @@
     .main-content {
       background-color: #11111b !important;
     }
-
+    #search-container{
+      background-color:#11111b !important;
+    }
     .identity-color-blue {
       --identity-tab-color: #8aadf4 !important;
       --identity-icon-color: #8aadf4 !important;
