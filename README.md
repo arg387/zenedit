@@ -106,7 +106,6 @@ Go to `about:config` and set:
 ## Made with the help of
 - ![bubble Clean Zen](https://github.com/nieffka/bubble-clean-zen/)
 - ![Zen Catppuccin](https://github.com/catppuccin/zen-browser)
-- ![[Config] Now playing indicator](https://github.com/benstone326/zen-mods?tab=readme-ov-file)
 - ![download.bg](https://github.com/different55/download.bg)
 
 **If you like it please give the repo a star. If you face any bugs or glich pls inform me in issue section by opening a new issue. [ Make sure to add proper descriptions and images, video or gif in the raised issue.].** 
