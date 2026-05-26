@@ -1,7 +1,7 @@
 /* --- Context Menu --- */
 menupopup,
 panel {
-  --panel-background: rgba(14, 14, 27, 0.61) !important; 
+  --panel-background: #0e0e1b9c !important; 
   --panel-color: #cdd6f4 !important; 
   
 }
@@ -60,16 +60,21 @@ menuitem[checked="true"]>.menu-iconic-text {
   --button-height: 40px;
   width: 285px !important;
 }
-menupopup, panel[type="arrow"]:not(#feature-callout){
-  @media (-moz-windows-mica-popups){
-    --panel-background: #0f0d1ead !important;
-    --panel-shadow-margin: 0px !important;
-    --panel-border-color: transparent !important;
+menupopup,
+panel[type="arrow"] {
+  @media (-moz-windows-mica-popups) {
+    &:not(#feature-callout):not(#zen-boost-advanced-color-options-panel) {
+      --panel-background: #0f0d1ead !important;
+      --panel-shadow-margin: 0px !important;
+      --panel-border-color: transparent !important;
+    }
   }
 }
 
-
-
-
-
-
+/* zen boost edit */
+menupop,panel[type="arrow"]#zen-boost-advanced-color-options-panel{
+@media (-moz-windows-mica-popups){
+  --panel-background: #fcfcfef5 !important;
+  --panel-color: #121213 !important;
+  }
+}
