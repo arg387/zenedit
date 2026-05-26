@@ -122,16 +122,3 @@ toolbar .toolbaritem-combined-buttons {
   }
 }
 
-/* --- Hides The Icons --- */
-#identity-permission-box,
-#identity-icon-label,
-#zen-copy-url-button {
-  display: none !important;
-}
-
-#star-button-box,
-#tracking-protection-icon-container,
-#reader-mode-button,
-#picture-in-picture-button {
-  display: None;
-}
