@@ -70,11 +70,3 @@ panel[type="arrow"] {
     }
   }
 }
-
-/* zen boost edit */
-menupop,panel[type="arrow"]#zen-boost-advanced-color-options-panel{
-@media (-moz-windows-mica-popups){
-  --panel-background: #fcfcfef5 !important;
-  --panel-color: #121213 !important;
-  }
-}
