@@ -12,13 +12,6 @@
 #identity-icon-box {
   background-color: transparent !important;
 }
-
-#urlbar:not([breakout-extend="true"]) {
-  #identity-box:is([pageproxystate="invalid"]) {
-    display: none !important;
-  }
-}
-
 #zen-split-views-button {
   scale: 1 !important;
   opacity: 0.8 !important;
