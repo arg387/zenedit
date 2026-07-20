@@ -118,6 +118,13 @@
     --identity-icon-color: #cba6f7 !important;
   }
 }
+#tabbrowser-tabs[orient="vertical"] {
+  &:not([expanded]) {
+    & .tab-close-button{
+      fill: var(--zen-colors-tertiary) !important;
+    }
+  }
+}
 /* urlbar centered text */
 #urlbar-input { 
   text-align: center !important;
