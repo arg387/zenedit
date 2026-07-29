@@ -8,11 +8,6 @@
   }
 }
 
-/* Hide Double Audio Button */
-.button-background {
-  display: none !important;
-}
-
 /* Window controls shadowing fix by @taroj1205 */
 #zen-sidebar-splitter {
   opacity: 0 !important;
@@ -20,6 +15,7 @@
   min-width: 0 !important;
   width: 5px !important;
 }
+
 &:has(#navigator-toolbox:hover) #zen-sidebar-splitter,
 #zen-sidebar-splitter:hover,
 #zen-sidebar-splitter:hover:active {
