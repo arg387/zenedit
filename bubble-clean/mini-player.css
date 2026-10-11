@@ -1,7 +1,0 @@
-#zen-media-controls-toolbar {
-  &:hover {
-    & .zen-media-card:not([zen-removing], [zen-hiding]) {
-      background: #09080875 !important;
-    }
-  }
-}
