@@ -1,0 +1,9 @@
+/* New library menu styles */
+/* *New space button* */
+.zen-swipe-add-space-progress-badge {
+  & .zen-swipe-add-space-icon {
+    fill: #090909 !important;
+  }
+}
+
+
