@@ -306,12 +306,6 @@
 }
 
 /* ***************** */
-/* changed downloading indicator color */
-:host(:is(.anonymous-content-host, notification-message)), :root{
-  --toolbarbutton-icon-fill-attention: rgb(113, 255, 148) !important;
-}
-
-/* ***************** */
 .urlbarView-title{
   color: #f8eded !important;
 }
