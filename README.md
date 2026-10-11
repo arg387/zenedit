@@ -1,6 +1,6 @@
 # zenedit
 zen browser configurations
-compatible with zen browser latest version
+compatible with zen browser latest Version 1.23.2b
 <br>
 <hr>
 
@@ -58,10 +58,6 @@ compatible with zen browser latest version
 
 ## Previews
 <div align="center">
-  <figure>
-    <img src="https://img.shields.io/badge/Screenshot-aqua"><img src="https://img.shields.io/badge/Updated-green?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc2MCAzODAuNGwtNjEuNi02MS42LTI2My4yIDI2My4xLTEwOS42LTEwOS41TDI2NCA1MzRsMTcxLjIgMTcxLjJMNzYwIDM4MC40eiIvPjwvc3ZnPg==&logoColor=f5f5f5"><img src="https://img.shields.io/badge/05_May_2026-blue">
-    <br>
-    <img width="568" height="448" alt="Screenshot 2025-10-23 202919" src="https://github.com/user-attachments/assets/c5e481e4-8ebf-44d3-ae4a-63fb772c0c35" />
     <br>
     <img width="345" height="362" alt="Screenshot 2025-11-04 184534" src="https://github.com/user-attachments/assets/453936ca-b0da-4ebe-a939-6f80bd7b567d" />
     <img width="1919" height="1072" alt="Screenshot 2026-03-21 172716" src="https://github.com/user-attachments/assets/ec5a11d8-0075-4359-9fe6-776352b16438" />
