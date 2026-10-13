@@ -9,10 +9,9 @@ compatible with zen browser latest Version 1.23.2b
   ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
   ![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
   [![](https://img.shields.io/badge/OLD-Download-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/v1.2)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arg387.zenedit)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arg387.zenedit)[
   
 </div>
-
 
 
 <br>
@@ -61,7 +60,9 @@ compatible with zen browser latest Version 1.23.2b
     <br>
     <img width="345" height="362" alt="Screenshot 2025-11-04 184534" src="https://github.com/user-attachments/assets/453936ca-b0da-4ebe-a939-6f80bd7b567d" />
     <img width="1919" height="1072" alt="Screenshot 2026-03-21 172716" src="https://github.com/user-attachments/assets/ec5a11d8-0075-4359-9fe6-776352b16438" />
-
+    <img width="1916" height="1048" alt="image" src="https://github.com/user-attachments/assets/663ae51c-1493-45f7-b29c-d042add7aadf" />
+    <img width="1912" height="1048" alt="image" src="https://github.com/user-attachments/assets/9eeec3af-195c-49a7-b18b-decf8e1c9926" />
+    <img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/01098f76-190f-4412-81b7-79dba02f1c80" />
   </figure>
 </div>
 <br>
