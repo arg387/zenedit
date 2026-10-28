@@ -1,10 +1,11 @@
 /* --- Context Menu --- */
 menupopup,
 panel {
-  --panel-background: #0e0e1b9c !important; 
+  --panel-background-color: light-dark( rgba(23 ,23 ,34 , 0.8), rgba(23, 23, 34, 0.7)) !important;
   --panel-color: #cdd6f4 !important; 
   
 }
+
 #confirmation-hint {
   --arrowpanel-color: var(--sidebar-text-color) !important;
 }
@@ -64,7 +65,7 @@ menupopup,
 panel[type="arrow"] {
   @media (-moz-windows-mica-popups) {
     &:not(#feature-callout):not(#zen-boost-advanced-color-options-panel) {
-      --panel-background: #0f0d1ead !important;
+      --panel-background-color: #0f0d1ea2 !important;
       --panel-shadow-margin: 0px !important;
       --panel-border-color: transparent !important;
     }
