@@ -33,12 +33,6 @@ menuitem[checked="true"]>.menu-iconic-text {
 #zen-toolbar-context-tabs-right[checked="true"] {
   padding-inline-start: 8px !important;
 }
-
-/* extra padding for "Compact Mode" option */
-/* #zen-context-menu-compact-mode {
-  padding-inline-start: calc(var(--fp-contextmenu-menuitem-padding-inline) + 18px + var(--fp-contextmenu-menuicon-margin-inline)) !important;
-} */
-
 #zen-context-menu-compact-mode-hide-sidebar,
 #zen-context-menu-compact-mode-hide-toolbar,
 #zen-context-menu-compact-mode-hide-both {
