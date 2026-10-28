@@ -1,6 +1,6 @@
 # zenedit
 zen browser configurations
-compatible with zen browser latest Version 1.23.3b
+compatible with zen browser latest Version 1.23.4b
 <br>
 <hr>
 
@@ -18,22 +18,15 @@ compatible with zen browser latest Version 1.23.3b
 <hr>
 
 ## Macos style button right side
-- [x] **Small window style**
 
 <div align="center">
   
-  ![macos-left-button-small](https://github.com/user-attachments/assets/26ef74a9-2b19-4d1f-a392-e22a16d44618)
-  
+  <img width="228" height="78" alt="Recording 2026-10-28 212341" src="https://github.com/user-attachments/assets/1a8c08b7-d5d7-432e-856c-c4648c4f5cf1" />
   <br>  
-  <img src="https://img.shields.io/badge/Preview-a6da95">
 </div>
-
-
-- [x] **Full window style**
+<br>
 <div align="center">
-  
-  ![macos-left-button-full2](https://github.com/user-attachments/assets/a8fe4d6f-cb3f-4e23-8d11-496e19ade264)
-
+  <img width="310" height="104" alt="Recording 2026-10-28 210132" src="https://github.com/user-attachments/assets/51263248-2f3a-4eaa-bb00-b801a98996b5" />
   <br>
   <img src="https://img.shields.io/badge/Preview-a6da95">
 </div>
