@@ -173,7 +173,6 @@
   overflow: hidden !important;
   transition: all 400ms ease-in-out !important;
 }
-/* New additions 25-07-2025 */
 .titlebar-min,
 .titlebar-max,
 .titlebar-restore,
@@ -182,12 +181,12 @@
 }
 
 .titlebar-min::before{
-	content: '';
+  content: '';
 	position: absolute;
 	top: 100%;
 	left: 53%;
 	transform: translate(-50%, -50%);
-	width: 8px;
+	width: 9px;
 	height: 2px;
 	opacity: 0;
 	background:  rgb(0, 0, 0);
@@ -208,7 +207,7 @@
   transition:  all 400ms ease-in-out !important;
 }
 .titlebar-restore::before{
-	content: '';
+  content: '';
 	position: absolute;
 	top: 100%;
 	left: 53%;
@@ -236,21 +235,21 @@
 	top: 50%;
 }
 .titlebar-max::before{
-	content: '';
+  content: '';
 	position: absolute;
-	top: 50%;
+	top: 100%;
 	left: 53%;
 	transform: translate(-50%, -50%);
-	width: 9px;
-	height: 9px;
+	width: 8px;
+	height: 8px;
 	opacity: 0;
 	background:  rgb(0, 0, 0);
   border-radius: 2px;
 }
 .titlebar-max::after{
-	content: '';
+  content: '';
 	position: absolute;
-	top: 50%;
+	top: 100%;
 	left: 53%;
 	transform: translate(-50%, -50%) rotate(-45deg);
 	width: 3px;
@@ -272,11 +271,11 @@
 }
 
 .titlebar-close::before{
-	content: '';
+  content: '';
 	position: absolute;
 	top: 100%;
 	left: 53%;
-	transform: translate(-50%, -50%) rotate(-45deg);
+	transform: translate(-50%, -50%) rotate(-45deg) scale(1.2);
 	width: 2px;
 	height: 8px;
 	opacity: 0;
@@ -284,11 +283,11 @@
   border-radius: 1px;
 }
 .titlebar-close::after{
-	content: '';
+  content: '';
 	position: absolute;
 	top: 100%;
-	left: 54%;
-	transform: translate(-50%, -50%) rotate(45deg);
+	left: 53%;
+	transform: translate(-50%, -50%) rotate(45deg) scale(1.2);
 	width: 2px;
 	height: 8px;
   opacity: 0;
@@ -357,5 +356,11 @@ zen-folder {
 #urlbar[breakout-extend] {
   & .urlbar-background {
     --zen-urlbar-background-base: rgba(24, 24, 37, 0.687) !important;
+  }
+}
+/* glance sidebar styles */
+.zen-glance-sidebar-container {
+  & toolbarbutton{
+    background: #1e1e2e !important;
   }
 }
