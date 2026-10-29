@@ -362,5 +362,6 @@ zen-folder {
 .zen-glance-sidebar-container {
   & toolbarbutton{
     background: #1e1e2e !important;
+	color: #FFFFFF !important;
   }
 }
