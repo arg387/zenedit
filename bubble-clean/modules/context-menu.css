@@ -65,3 +65,8 @@ panel[type="arrow"] {
     }
   }
 }
+/* appmenu edits */
+#appMenu-fxa-sign-in-promo {
+  background-color: #11111b !important;
+  color: #cdd6f4 !important;
+}
