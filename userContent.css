@@ -74,8 +74,6 @@
     groupbox , moz-card{
       background: #11111b !important;
     }
-
-    button,
     groupbox menulist {
       background: #313244 !important;
       color: #cdd6f4 !important;
@@ -126,6 +124,11 @@
       --identity-tab-color: #c6a0f6 !important;
       --identity-icon-color: #c6a0f6 !important;
     }
+    .container{
+      background-color: #f38ba8 !important;
+      color: #1e1e2e !important;
+      border-radius: 6px !important;
+    }
   }
 
   /* Variables and styles specific to about:addons */
@@ -133,6 +136,9 @@
     :root {
       --zen-dark-color-mix-base: #181825 !important;
       --background-color-box: #1e1e2e !important;
+    }
+    .sticky-container{
+      background-color: #1e1e2e !important;
     }
   }
 
@@ -150,13 +156,9 @@
       --in-content-primary-button-background: #45475a !important;
       --in-content-primary-button-text-color: #cdd6f4 !important;
     }
-
-
     .card {
       background-color: #313244 !important;
     }
   }
-  .sticky-container {
-    background: #11111b !important;
-  }
+
 }
