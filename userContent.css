@@ -124,10 +124,12 @@
       --identity-tab-color: #c6a0f6 !important;
       --identity-icon-color: #c6a0f6 !important;
     }
-    .container{
+    moz-message-bar#updateSettingCrossUserWarning {
+      --message-bar-text-color: #1e1e2e !important;
+      --message-bar-container-gap: 8px !important;
+      --message-bar-container-padding-inline: 12px !important;
+      --message-bar-container-padding-block: 8px !important;
       background-color: #f38ba8 !important;
-      color: #1e1e2e !important;
-      border-radius: 6px !important;
     }
   }
 
@@ -137,7 +139,10 @@
       --zen-dark-color-mix-base: #181825 !important;
       --background-color-box: #1e1e2e !important;
     }
-    .sticky-container{
+    .main-heading {
+      background-color: #1e1e2e !important;
+    }
+    .main-search {
       background-color: #1e1e2e !important;
     }
   }
