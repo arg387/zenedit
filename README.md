@@ -56,6 +56,8 @@ compatible with zen browser latest Version 1.24b
     <img width="1916" height="1048" alt="image" src="https://github.com/user-attachments/assets/663ae51c-1493-45f7-b29c-d042add7aadf" />
     <img width="1912" height="1048" alt="image" src="https://github.com/user-attachments/assets/9eeec3af-195c-49a7-b18b-decf8e1c9926" />
     <img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/01098f76-190f-4412-81b7-79dba02f1c80" />
+    <img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/294c4cdf-2739-40d3-8e52-ca5980fdca17" />
+
   </figure>
 </div>
 <br>
