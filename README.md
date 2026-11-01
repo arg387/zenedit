@@ -51,11 +51,10 @@ compatible with zen browser latest Version 1.24b
 ## Previews
 <div align="center">
     <br>
-    <img width="345" height="362" alt="Screenshot 2025-11-04 184534" src="https://github.com/user-attachments/assets/453936ca-b0da-4ebe-a939-6f80bd7b567d" />
-    <img width="1919" height="1072" alt="Screenshot 2026-03-21 172716" src="https://github.com/user-attachments/assets/ec5a11d8-0075-4359-9fe6-776352b16438" />
+    <img width="1776" height="1042" alt="image" src="https://github.com/user-attachments/assets/c06dbaee-67d1-4ea3-9ef4-a4ed8f0e4e46" />
     <img width="1916" height="1048" alt="image" src="https://github.com/user-attachments/assets/663ae51c-1493-45f7-b29c-d042add7aadf" />
     <img width="1912" height="1048" alt="image" src="https://github.com/user-attachments/assets/9eeec3af-195c-49a7-b18b-decf8e1c9926" />
-    <img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/01098f76-190f-4412-81b7-79dba02f1c80" />
+    <img width="587" height="1042" alt="image" src="https://github.com/user-attachments/assets/b5b3d518-86cd-4a65-96df-d9e1463a9245" />
     <img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/294c4cdf-2739-40d3-8e52-ca5980fdca17" />
 
   </figure>
