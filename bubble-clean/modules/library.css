@@ -2,8 +2,14 @@
 /* *New space button* */
 .zen-swipe-add-space-progress-badge {
   & .zen-swipe-add-space-icon {
-    fill: #090909 !important;
+    fill: rgba(200, 200, 219, 0.847) !important;
   }
 }
 
-
+.zen-swipe-add-space-progress-badge{
+  --background: color-mix(in srgb, rgb(0,0,0)88% , rgb(240, 230, 230)12%) !important;
+  background: var(--background) !important;
+}
+.zen-swipe-add-space-icon:hover {
+  fill: rgba(17, 17, 27, 0.847) !important;
+}
