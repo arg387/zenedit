@@ -13,3 +13,31 @@
 .zen-swipe-add-space-icon:hover {
   fill: rgba(17, 17, 27, 0.847) !important;
 }
+/* library tab styles */
+.zen-library-tab {
+  &[active]::before {
+    background: color-mix(in srgb, currentColor 10%, transparent) !important;
+  }
+}
+.zen-library-tab {
+  &::before {
+    content: "" !important;
+    position: absolute !important;
+    inset: 0 !important;
+    z-index: -2 !important;
+    border-radius: 10px !important;
+    transition: transform 0.1s ease-in-out !important;
+  }
+}
+.zen-library-tab {
+  --zen-library-sprite-size: 28px !important;
+  font-weight: 600 !important;
+}
+
+
+.zen-library-tab {
+  &:hover::before {
+    background: color-mix(in srgb, currentColor 5%, transparent) !important;
+
+  }
+}
