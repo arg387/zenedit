@@ -143,10 +143,6 @@
   display: none !important;
 }
 
-/* Hides Reset Button */
-.reset-icon {
-  display: none !important;
-}
 
 /* Shrink on click */
 /* Zen already has this, but this increases the shrink magnitude */
