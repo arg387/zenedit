@@ -8,7 +8,7 @@ compatible with zen browser latest Version 1.24b
   
   ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/zenedit)
   ![GitHub watchers](https://img.shields.io/github/watchers/arg387/zenedit)
-  [![](https://img.shields.io/badge/OLD-Download-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/v1.2)
+  [![](https://img.shields.io/badge/OLD-Download-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/v1.3.1)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arg387.zenedit)
   
 </div>
