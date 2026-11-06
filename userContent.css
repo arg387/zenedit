@@ -166,4 +166,10 @@
     }
   }
 
+
+}
+@-moz-document url-prefix("about:keyboard") {
+  .customkeys-sidebar {
+    background-color: transparent !important;
+  }
 }
