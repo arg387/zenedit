@@ -134,7 +134,13 @@
 .tabbrowser-tab .tab-background {
   transition: background-color 0.2s ease;
 }
-
+#tabbrowser-tabs[orient="vertical"] {
+  &:not([expanded]) {
+    & .tab-close-button {
+      --close-button-extra-background: #18182673 !important;  
+    }
+  }
+}
 /* Only Close On Hover */
 
 #tabbrowser-tabs
