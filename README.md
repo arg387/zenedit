@@ -1,6 +1,6 @@
 # zenedit
 zen browser configurations
-compatible with zen browser latest Version 1.24b
+compatible with zen browser latest Version 1.24.1b
 <br>
 <hr>
 
