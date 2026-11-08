@@ -1,7 +1,20 @@
 @import "bubble-clean/bubble-clean.css";
 
 /* Catppuccin Mocha Flamingo userChrome.css*/
-
+*{
+  --mauve:#cba6f7;
+  --pink:#f5c2e7;
+  --maroon:#eba0ac;
+  --red:#f38ba8;
+  --peach:#fab387;
+  --yellow:#f9e2af;
+  --green:#a6e3a1;
+  --teal:#94e2d5;
+  --sky:#89dceb;
+  --sapphire:#74c7ec;
+  --blue:#89b4fa;
+  --lavender:#b4befe;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --zen-colors-primary: #313244 !important;
@@ -318,12 +331,6 @@
 #browser {
   background: #181825 !important;
 }
-/* folder styles */
-zen-folder {
-  --zen-folder-behind-bgcolor: #6767b4 !important;
-  --zen-folder-front-bgcolor: #241d1d !important;
-  --zen-folder-stroke: #453737 !important;
-}
 /* copy notification toast styles */
 #zen-toast-container {
   & .zen-toast {
@@ -352,4 +359,3 @@ zen-folder {
     color: #ffffff !important;
   }
 }
-
