@@ -53,9 +53,9 @@ compatible with zen browser latest Version 1.24.1b
 ## Previews
 <div align="center">
     <br>
-    <img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/1bdcde2e-b95c-4e26-9a8c-20141cb17e29" />
-    <img width="1910" height="1043" alt="image" src="https://github.com/user-attachments/assets/dcb822bf-1b7a-4072-add4-fb2b180b69bb" />
-    <img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/d914e4fc-acf3-464b-b255-39450e4553fe" />
+    <img width="1917" height="1046" alt="image" src="https://github.com/user-attachments/assets/409ebd55-b89e-434e-aff4-957c37a6391d" />
+    <img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/b89abf09-40ff-43a3-82c4-2861eef775d3" />
+    <img width="1911" height="1048" alt="image" src="https://github.com/user-attachments/assets/83646976-bd2e-4c7c-b65b-7a2f6623f9d0" />
     <img width="1776" height="1042" alt="image" src="https://github.com/user-attachments/assets/c06dbaee-67d1-4ea3-9ef4-a4ed8f0e4e46" />
     <img width="587" height="1042" alt="image" src="https://github.com/user-attachments/assets/b5b3d518-86cd-4a65-96df-d9e1463a9245" />
     <img width="1917" height="1048" alt="image" src="https://github.com/user-attachments/assets/294c4cdf-2739-40d3-8e52-ca5980fdca17" />
