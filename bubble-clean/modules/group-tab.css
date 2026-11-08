@@ -196,3 +196,47 @@ tab-group:not([split-view-group]) {
     }
   }
 }
+.zen-workspace-scroll-to-tab{
+  background: #313244 !important;
+}
+/* folder styles for different folders */
+zen-folder {
+  --zen-folder-front-bgcolor: #18181a !important;
+  --zen-folder-stroke: #585b70 !important;
+}
+zen-folder:nth-child(12n+1){
+  --zen-folder-behind-bgcolor: var(--red) !important;
+}
+zen-folder:nth-child(12n+2){
+  --zen-folder-behind-bgcolor: var(--peach) !important;
+}
+zen-folder:nth-child(12n+3){
+  --zen-folder-behind-bgcolor: var(--yellow) !important;
+}
+zen-folder:nth-child(12n+4){
+  --zen-folder-behind-bgcolor: var(--green) !important;
+}
+zen-folder:nth-child(12n+5){
+  --zen-folder-behind-bgcolor: var(--teal) !important;
+}
+zen-folder:nth-child(12n+6){
+  --zen-folder-behind-bgcolor: var(--sky) !important;
+}
+zen-folder:nth-child(12n+7){
+  --zen-folder-behind-bgcolor: var(--sapphire) !important;
+}
+zen-folder:nth-child(12n+8){
+  --zen-folder-behind-bgcolor: var(--blue) !important;
+}
+zen-folder:nth-child(12n+9){
+  --zen-folder-behind-bgcolor: var(--lavender) !important;
+}
+zen-folder:nth-child(12n+10){
+  --zen-folder-behind-bgcolor: var(--mauve) !important;
+}
+zen-folder:nth-child(12n+11){
+  --zen-folder-behind-bgcolor: var(--pink) !important;
+}
+zen-folder:nth-child(12n+12){
+  --zen-folder-behind-bgcolor: var(--maroon) !important;
+}
