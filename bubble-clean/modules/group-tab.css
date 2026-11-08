@@ -217,16 +217,16 @@ zen-folder:nth-child(12n+4){
   --zen-folder-behind-bgcolor: var(--green) !important;
 }
 zen-folder:nth-child(12n+5){
-  --zen-folder-behind-bgcolor: var(--teal) !important;
+  --zen-folder-behind-bgcolor: var(--blue) !important;
 }
 zen-folder:nth-child(12n+6){
-  --zen-folder-behind-bgcolor: var(--sky) !important;
-}
-zen-folder:nth-child(12n+7){
   --zen-folder-behind-bgcolor: var(--sapphire) !important;
 }
+zen-folder:nth-child(12n+7){
+  --zen-folder-behind-bgcolor: var(--pink) !important;
+}
 zen-folder:nth-child(12n+8){
-  --zen-folder-behind-bgcolor: var(--blue) !important;
+  --zen-folder-behind-bgcolor: var(--sky) !important;
 }
 zen-folder:nth-child(12n+9){
   --zen-folder-behind-bgcolor: var(--lavender) !important;
@@ -235,7 +235,7 @@ zen-folder:nth-child(12n+10){
   --zen-folder-behind-bgcolor: var(--mauve) !important;
 }
 zen-folder:nth-child(12n+11){
-  --zen-folder-behind-bgcolor: var(--pink) !important;
+  --zen-folder-behind-bgcolor: var(--teal) !important;
 }
 zen-folder:nth-child(12n+12){
   --zen-folder-behind-bgcolor: var(--maroon) !important;
