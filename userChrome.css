@@ -1,6 +1,7 @@
 @import "bubble-clean/bubble-clean.css";
 
 /* Catppuccin Mocha Flamingo userChrome.css*/
+/* Added Catpuccine Mocha color pallete. Use as you wish */
 *{
   --mauve:#cba6f7;
   --pink:#f5c2e7;
