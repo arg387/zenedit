@@ -1,5 +1,5 @@
 # zenedit
-zen browser configurations
+zen browser configurations for dark mode 
 compatible with zen browser latest Version 1.24.1b
 <br>
 <hr>
@@ -48,6 +48,7 @@ compatible with zen browser latest Version 1.24.1b
 - Click on Open Profile Folder. In the Profile Folder, create a new folder and name it `chrome`. Make sure to download theme zip file from github(or google it if you don't know how to download.). Now unzip all the files in the chrome folder. Next just restart the browser and the theme will show now.
 - Transparent background is only working for url interface, extension menuand for application menu. I don't recommend you to use third party apps for transparency since i am also not using it. It's your own choice if you want to.
 - If you want to add a new application menu icon first go to the chrome file and add the icon there. Then just go to the `userChrome.css` file and add the icon name in the quotation part of the code below `menu button added` comment.
+- Ensure dark mode enabled in zen's `appearance` settings.
 
 
 ## Previews
