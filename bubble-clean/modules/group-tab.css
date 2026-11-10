@@ -240,3 +240,7 @@ zen-folder:nth-child(12n+11){
 zen-folder:nth-child(12n+12){
   --zen-folder-behind-bgcolor: var(--maroon) !important;
 }
+/* subfolder styles comment them if you don't want them to inherit same color as parent folder */
+zen-folder [label="Subfolder"]{
+  --zen-folder-behind-bgcolor: inherit !important;
+}
