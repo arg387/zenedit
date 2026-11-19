@@ -350,7 +350,9 @@
 /* urlbar background */
 #urlbar[breakout-extend] {
   & .urlbar-background {
-    --zen-urlbar-background-base: rgba(24, 24, 37, 0.687) !important;
+    --zen-urlbar-background-base: transparent !important;
+    background-color: #1e1e2e98 !important;
+    
   }
 }
 /* glance sidebar styles */
