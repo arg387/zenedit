@@ -1,6 +1,6 @@
 # zenedit
 zen browser configurations for dark mode 
-compatible with zen browser latest Version 1.24.1b
+compatible with zen browser latest Version 1.24.3b
 <br>
 <hr>
 
@@ -95,6 +95,7 @@ Go to `about:config` and set:
 | `zen.theme.content-element-separation`       | `4`                | Thinner web view borders|
 | `browser.tabs.allow_transparent_browser`       | `true`                | Allow transparency|
 | `widget.windows.mica`       | `true`                | Allow transparency|
+| `zen.theme.acrylic-urlbar`       | `false`                | Allow Urlbar transparency[Version 1.24.3b]|
 
 
 
