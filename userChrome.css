@@ -350,7 +350,6 @@
 /* urlbar background */
 #urlbar[breakout-extend] {
   & .urlbar-background {
-    --zen-urlbar-background-base: transparent !important;
     background-color: #1e1e2e98 !important;
     
   }
